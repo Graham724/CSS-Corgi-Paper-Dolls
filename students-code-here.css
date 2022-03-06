@@ -1,0 +1,29 @@
+/*Clothes Positions on Corgis */
+.funny-glasses {
+    position: relative;
+    left: 13.25em;
+    bottom:7em;
+}
+
+.bandana {
+    position: absolute;
+    top: 11em;
+    left: 6.75em;
+}
+
+.pawprint {
+    position: fixed;
+    top: 3em;
+    left: 4em;
+}
+
+.luna {
+    position:sticky;
+    top: 1em;
+    left: 1em;
+}
+
+.top-hat {
+    position: relative;
+    z-index: 1;
+}
